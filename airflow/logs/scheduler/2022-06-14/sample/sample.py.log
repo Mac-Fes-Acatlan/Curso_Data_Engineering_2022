@@ -1514,3 +1514,17 @@
 [2022-06-14 02:49:44,466] {logging_mixin.py:104} INFO - [2022-06-14 02:49:44,466] {dag.py:1818} INFO - Sync 1 DAGs
 [2022-06-14 02:49:44,476] {logging_mixin.py:104} INFO - [2022-06-14 02:49:44,476] {dag.py:2273} INFO - Setting next_dagrun for sample-dag to None
 [2022-06-14 02:49:44,486] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/sample/sample.py took 0.071 seconds
+[2022-06-14 02:50:14,513] {scheduler_job.py:182} INFO - Started process (PID=357) to work on /opt/airflow/dags/sample/sample.py
+[2022-06-14 02:50:14,513] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/sample/sample.py for tasks to queue
+[2022-06-14 02:50:14,514] {logging_mixin.py:104} INFO - [2022-06-14 02:50:14,514] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/sample/sample.py
+[2022-06-14 02:50:14,522] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['sample-dag']) retrieved from /opt/airflow/dags/sample/sample.py
+[2022-06-14 02:50:14,538] {logging_mixin.py:104} INFO - [2022-06-14 02:50:14,538] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-06-14 02:50:14,549] {logging_mixin.py:104} INFO - [2022-06-14 02:50:14,549] {dag.py:2273} INFO - Setting next_dagrun for sample-dag to None
+[2022-06-14 02:50:14,557] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/sample/sample.py took 0.047 seconds
+[2022-06-14 02:50:44,686] {scheduler_job.py:182} INFO - Started process (PID=362) to work on /opt/airflow/dags/sample/sample.py
+[2022-06-14 02:50:44,688] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/sample/sample.py for tasks to queue
+[2022-06-14 02:50:44,689] {logging_mixin.py:104} INFO - [2022-06-14 02:50:44,689] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/sample/sample.py
+[2022-06-14 02:50:44,708] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['sample-dag']) retrieved from /opt/airflow/dags/sample/sample.py
+[2022-06-14 02:50:44,729] {logging_mixin.py:104} INFO - [2022-06-14 02:50:44,729] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-06-14 02:50:44,741] {logging_mixin.py:104} INFO - [2022-06-14 02:50:44,741] {dag.py:2273} INFO - Setting next_dagrun for sample-dag to None
+[2022-06-14 02:50:44,747] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/sample/sample.py took 0.066 seconds
