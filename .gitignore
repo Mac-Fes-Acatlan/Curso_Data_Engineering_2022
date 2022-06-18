@@ -1,3 +1,4 @@
-*.csv
 *.ipynb
-./logs
+*.log
+__pycache__/
+airflow/logs/*
