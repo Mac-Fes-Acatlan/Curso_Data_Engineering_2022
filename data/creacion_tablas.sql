@@ -1,3 +1,5 @@
+\c postgres;
+
 CREATE TABLE public.TBL_MAINTENANCE
 (
   stock_id integer NULL,
