@@ -27,3 +27,10 @@ feat/JCL/init_develop_course
 ```sh
 <type>: <description>
 ```
+
+***
+## Run containers
+
+```sh
+docker-compose up -d --build
+```
