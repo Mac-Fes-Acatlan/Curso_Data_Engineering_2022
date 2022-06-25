@@ -1,0 +1,936 @@
+[
+    {
+        "id": 1,
+        "date": "13/2/2020",
+        "customer": 6,
+        "products": [
+            {
+                "product": 54,
+                "quantity": 8
+            },
+            {
+                "product": 82,
+                "quantity": 7
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "date": "10/8/2021",
+        "customer": 11,
+        "products": [
+            {
+                "product": 47,
+                "quantity": 1
+            },
+            {
+                "product": 82,
+                "quantity": 5
+            },
+            {
+                "product": 56,
+                "quantity": 6
+            },
+            {
+                "product": 48,
+                "quantity": 8
+            },
+            {
+                "product": 20,
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "date": "4/8/2020",
+        "customer": 11,
+        "products": [
+            {
+                "product": 76,
+                "quantity": 8
+            },
+            {
+                "product": 49,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "date": "20/6/2021",
+        "customer": 19,
+        "products": [
+            {
+                "product": 7,
+                "quantity": 4
+            },
+            {
+                "product": 1,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "date": "1/8/2020",
+        "customer": 7,
+        "products": [
+            {
+                "product": 61,
+                "quantity": 2
+            },
+            {
+                "product": 16,
+                "quantity": 10
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "date": "25/7/2020",
+        "customer": 3,
+        "products": [
+            {
+                "product": 67,
+                "quantity": 5
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "date": "26/8/2020",
+        "customer": 13,
+        "products": [
+            {
+                "product": 79,
+                "quantity": 1
+            },
+            {
+                "product": 8,
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "date": "10/5/2021",
+        "customer": 3,
+        "products": [
+            {
+                "product": 21,
+                "quantity": 1
+            },
+            {
+                "product": 27,
+                "quantity": 5
+            },
+            {
+                "product": 56,
+                "quantity": 1
+            },
+            {
+                "product": 5,
+                "quantity": 8
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "date": "15/7/2021",
+        "customer": 3,
+        "products": [
+            {
+                "product": 53,
+                "quantity": 9
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "date": "30/6/2021",
+        "customer": 6,
+        "products": [
+            {
+                "product": 6,
+                "quantity": 10
+            },
+            {
+                "product": 98,
+                "quantity": 1
+            },
+            {
+                "product": 74,
+                "quantity": 8
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "date": "26/11/2020",
+        "customer": 4,
+        "products": [
+            {
+                "product": 47,
+                "quantity": 7
+            },
+            {
+                "product": 94,
+                "quantity": 4
+            },
+            {
+                "product": 38,
+                "quantity": 2
+            },
+            {
+                "product": 94,
+                "quantity": 4
+            },
+            {
+                "product": 37,
+                "quantity": 6
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "date": "21/5/2020",
+        "customer": 2,
+        "products": [
+            {
+                "product": 74,
+                "quantity": 2
+            },
+            {
+                "product": 78,
+                "quantity": 1
+            },
+            {
+                "product": 54,
+                "quantity": 10
+            },
+            {
+                "product": 12,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "date": "18/3/2020",
+        "customer": 20,
+        "products": [
+            {
+                "product": 2,
+                "quantity": 7
+            },
+            {
+                "product": 46,
+                "quantity": 5
+            },
+            {
+                "product": 83,
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "date": "23/1/2020",
+        "customer": 17,
+        "products": [
+            {
+                "product": 67,
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "date": "11/6/2020",
+        "customer": 17,
+        "products": [
+            {
+                "product": 60,
+                "quantity": 3
+            },
+            {
+                "product": 91,
+                "quantity": 5
+            },
+            {
+                "product": 85,
+                "quantity": 1
+            },
+            {
+                "product": 99,
+                "quantity": 10
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "date": "24/5/2021",
+        "customer": 7,
+        "products": [
+            {
+                "product": 93,
+                "quantity": 3
+            },
+            {
+                "product": 32,
+                "quantity": 7
+            },
+            {
+                "product": 31,
+                "quantity": 7
+            },
+            {
+                "product": 9,
+                "quantity": 7
+            },
+            {
+                "product": 89,
+                "quantity": 10
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "date": "27/12/2020",
+        "customer": 19,
+        "products": [
+            {
+                "product": 46,
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "date": "24/10/2020",
+        "customer": 2,
+        "products": [
+            {
+                "product": 92,
+                "quantity": 1
+            },
+            {
+                "product": 66,
+                "quantity": 2
+            },
+            {
+                "product": 44,
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "date": "17/11/2020",
+        "customer": 16,
+        "products": [
+            {
+                "product": 55,
+                "quantity": 5
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "date": "17/4/2020",
+        "customer": 15,
+        "products": [
+            {
+                "product": 41,
+                "quantity": 7
+            },
+            {
+                "product": 43,
+                "quantity": 3
+            },
+            {
+                "product": 53,
+                "quantity": 2
+            },
+            {
+                "product": 8,
+                "quantity": 4
+            },
+            {
+                "product": 53,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "date": "12/8/2021",
+        "customer": 17,
+        "products": [
+            {
+                "product": 57,
+                "quantity": 10
+            },
+            {
+                "product": 72,
+                "quantity": 6
+            },
+            {
+                "product": 73,
+                "quantity": 5
+            },
+            {
+                "product": 30,
+                "quantity": 7
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "date": "4/5/2021",
+        "customer": 12,
+        "products": [
+            {
+                "product": 58,
+                "quantity": 1
+            },
+            {
+                "product": 38,
+                "quantity": 7
+            },
+            {
+                "product": 31,
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "date": "28/5/2020",
+        "customer": 11,
+        "products": [
+            {
+                "product": 69,
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "date": "3/11/2020",
+        "customer": 16,
+        "products": [
+            {
+                "product": 31,
+                "quantity": 10
+            },
+            {
+                "product": 45,
+                "quantity": 5
+            },
+            {
+                "product": 92,
+                "quantity": 1
+            },
+            {
+                "product": 11,
+                "quantity": 5
+            },
+            {
+                "product": 55,
+                "quantity": 10
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "date": "11/11/2020",
+        "customer": 9,
+        "products": [
+            {
+                "product": 7,
+                "quantity": 7
+            },
+            {
+                "product": 33,
+                "quantity": 9
+            },
+            {
+                "product": 58,
+                "quantity": 3
+            },
+            {
+                "product": 45,
+                "quantity": 5
+            },
+            {
+                "product": 27,
+                "quantity": 7
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "date": "13/6/2021",
+        "customer": 17,
+        "products": [
+            {
+                "product": 77,
+                "quantity": 5
+            },
+            {
+                "product": 92,
+                "quantity": 10
+            },
+            {
+                "product": 97,
+                "quantity": 6
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "date": "28/11/2020",
+        "customer": 13,
+        "products": [
+            {
+                "product": 83,
+                "quantity": 1
+            },
+            {
+                "product": 13,
+                "quantity": 9
+            },
+            {
+                "product": 20,
+                "quantity": 9
+            },
+            {
+                "product": 81,
+                "quantity": 5
+            },
+            {
+                "product": 93,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "date": "1/7/2021",
+        "customer": 9,
+        "products": [
+            {
+                "product": 31,
+                "quantity": 8
+            },
+            {
+                "product": 5,
+                "quantity": 2
+            },
+            {
+                "product": 97,
+                "quantity": 6
+            },
+            {
+                "product": 91,
+                "quantity": 8
+            },
+            {
+                "product": 57,
+                "quantity": 5
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "date": "7/5/2020",
+        "customer": 19,
+        "products": [
+            {
+                "product": 15,
+                "quantity": 1
+            },
+            {
+                "product": 99,
+                "quantity": 8
+            },
+            {
+                "product": 64,
+                "quantity": 7
+            },
+            {
+                "product": 53,
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "date": "28/4/2020",
+        "customer": 15,
+        "products": [
+            {
+                "product": 63,
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "date": "23/1/2020",
+        "customer": 3,
+        "products": [
+            {
+                "product": 86,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "date": "11/12/2020",
+        "customer": 8,
+        "products": [
+            {
+                "product": 43,
+                "quantity": 7
+            },
+            {
+                "product": 18,
+                "quantity": 10
+            },
+            {
+                "product": 18,
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "date": "27/5/2021",
+        "customer": 1,
+        "products": [
+            {
+                "product": 34,
+                "quantity": 7
+            },
+            {
+                "product": 22,
+                "quantity": 6
+            },
+            {
+                "product": 65,
+                "quantity": 5
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "date": "5/12/2020",
+        "customer": 19,
+        "products": [
+            {
+                "product": 36,
+                "quantity": 7
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "date": "13/3/2020",
+        "customer": 9,
+        "products": [
+            {
+                "product": 91,
+                "quantity": 5
+            },
+            {
+                "product": 82,
+                "quantity": 10
+            },
+            {
+                "product": 72,
+                "quantity": 10
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "date": "19/1/2020",
+        "customer": 18,
+        "products": [
+            {
+                "product": 50,
+                "quantity": 7
+            },
+            {
+                "product": 26,
+                "quantity": 10
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "date": "31/3/2021",
+        "customer": 16,
+        "products": [
+            {
+                "product": 68,
+                "quantity": 9
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "date": "4/1/2021",
+        "customer": 12,
+        "products": [
+            {
+                "product": 30,
+                "quantity": 6
+            },
+            {
+                "product": 90,
+                "quantity": 10
+            },
+            {
+                "product": 37,
+                "quantity": 9
+            },
+            {
+                "product": 67,
+                "quantity": 10
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "date": "18/10/2020",
+        "customer": 5,
+        "products": [
+            {
+                "product": 36,
+                "quantity": 8
+            },
+            {
+                "product": 22,
+                "quantity": 6
+            },
+            {
+                "product": 37,
+                "quantity": 5
+            },
+            {
+                "product": 9,
+                "quantity": 10
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "date": "21/10/2020",
+        "customer": 10,
+        "products": [
+            {
+                "product": 82,
+                "quantity": 4
+            },
+            {
+                "product": 97,
+                "quantity": 5
+            },
+            {
+                "product": 53,
+                "quantity": 9
+            },
+            {
+                "product": 35,
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "date": "8/12/2020",
+        "customer": 19,
+        "products": [
+            {
+                "product": 5,
+                "quantity": 10
+            },
+            {
+                "product": 100,
+                "quantity": 6
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "date": "2/6/2021",
+        "customer": 17,
+        "products": [
+            {
+                "product": 38,
+                "quantity": 1
+            },
+            {
+                "product": 99,
+                "quantity": 1
+            },
+            {
+                "product": 66,
+                "quantity": 9
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "date": "19/11/2020",
+        "customer": 11,
+        "products": [
+            {
+                "product": 5,
+                "quantity": 8
+            },
+            {
+                "product": 74,
+                "quantity": 6
+            },
+            {
+                "product": 66,
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "date": "27/3/2020",
+        "customer": 3,
+        "products": [
+            {
+                "product": 88,
+                "quantity": 9
+            },
+            {
+                "product": 24,
+                "quantity": 3
+            },
+            {
+                "product": 24,
+                "quantity": 6
+            },
+            {
+                "product": 22,
+                "quantity": 3
+            },
+            {
+                "product": 83,
+                "quantity": 6
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "date": "9/1/2020",
+        "customer": 15,
+        "products": [
+            {
+                "product": 38,
+                "quantity": 7
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "date": "15/12/2020",
+        "customer": 10,
+        "products": [
+            {
+                "product": 8,
+                "quantity": 7
+            },
+            {
+                "product": 28,
+                "quantity": 9
+            },
+            {
+                "product": 4,
+                "quantity": 1
+            },
+            {
+                "product": 35,
+                "quantity": 10
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "date": "30/10/2020",
+        "customer": 3,
+        "products": [
+            {
+                "product": 72,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "date": "24/12/2020",
+        "customer": 15,
+        "products": [
+            {
+                "product": 89,
+                "quantity": 4
+            },
+            {
+                "product": 23,
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "date": "12/4/2020",
+        "customer": 17,
+        "products": [
+            {
+                "product": 45,
+                "quantity": 1
+            },
+            {
+                "product": 64,
+                "quantity": 4
+            },
+            {
+                "product": 74,
+                "quantity": 6
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "date": "16/12/2020",
+        "customer": 17,
+        "products": [
+            {
+                "product": 11,
+                "quantity": 5
+            },
+            {
+                "product": 35,
+                "quantity": 10
+            },
+            {
+                "product": 59,
+                "quantity": 9
+            },
+            {
+                "product": 31,
+                "quantity": 8
+            }
+        ]
+    }
+]
