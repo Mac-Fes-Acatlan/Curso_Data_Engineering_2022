@@ -32,5 +32,5 @@ feat/JCL/init_develop_course
 ## Run containers
 
 ```sh
-docker-compose up -d --build
+source Launcher.sh
 ```
