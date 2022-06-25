@@ -91,13 +91,13 @@ services:
       - ./notebooks:/home/jovyan/notebooks
       - ./datalake:/home/jovyan/datalake
       - ./data:/home/jovyan/data
-      - ./drivers:/home/airflow/drivers
+      - ./drivers:/home/jovyan/drivers
     networks:
       - pyspark-net
     deploy:
       restart_policy:
         condition: on-failure
-    command: "jupyter lab --ip='*' --allow-root --no-browser --port=8888 --NotebookApp.password='' --NotebookApp.token=''"
+    #command: "jupyter lab --ip='*' --allow-root --no-browser --port=8888 --NotebookApp.password='' --NotebookApp.token=''"
 
   adminer:
     image: adminer:latest
