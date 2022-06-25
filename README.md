@@ -1,4 +1,7 @@
-# Curso_Data_Engineer
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLv_Wia__UpipDuouCFzQX2rumq46w5kG4lQ&usqp=CAU)
+# Curso Introducción Data Engineering
+
+</br>
 
 ## Branch Type
 
@@ -12,7 +15,7 @@
 - style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 - test: Adding missing tests or correcting existing tests
 
-
+</br>
 
 ## Format Example
 
@@ -27,6 +30,8 @@ feat/JCL/init_develop_course
 ```sh
 <type>: <description>
 ```
+
+</br>
 
 ***
 ## Run containers
